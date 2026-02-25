@@ -2,7 +2,7 @@ import yfinance as yf
 import pandas as pd
 
 
-def download_sp500(start="2010-01-01", end="2026-01-01"):
+def download_sp500(start="2010-01-01", end="2024-12-31"):
     """
     Download daily S&P 500 index data (robust to yfinance changes).
     """
