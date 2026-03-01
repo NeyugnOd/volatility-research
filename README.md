@@ -90,6 +90,3 @@ Kupiec unconditional coverage test evaluates model adequacy.
 This framework demonstrates a complete volatility research workflow:
 data ingestion, stylized facts validation, model estimation,
 forecast evaluation, event study, and risk backtesting.
-
-It is structured for extensibility and suitable for professional
-quantitative finance interviews.
